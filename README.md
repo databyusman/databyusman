@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Aspiring Data Scientist</b> | Python, SQL, Machine Learning<br>
-  I build projects that answer real questions with data.
+  Learning in public. Building projects that answer real questions with data.
 </p>
 
 <p align="center">
@@ -12,8 +12,16 @@
 
 ---
 
-### 🎯 What I Do
-I turn messy data into clear answers: cleaning it, analyzing it, and building models that help people make better decisions.
+### 🌱 Currently Learning
+- Python for data analysis (Pandas, NumPy)
+- SQL for querying and cleaning data
+- Machine learning fundamentals with Scikit-learn
+- Data visualization and storytelling
+
+### 🔨 Currently Building
+- My first data projects, using real public datasets
+- A portfolio that shows how I think, not just what tools I know
+- *New repos coming soon, follow along!*
 
 ### 🛠️ Toolbox
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -22,19 +30,9 @@ I turn messy data into clear answers: cleaning it, analyzing it, and building mo
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### 🚀 Featured Projects
-| Project | What it answers | Tech |
-|---|---|---|
-| [Project Name](link) | One line: the question it solves | Python, Pandas |
-| [Project Name](link) | One line: the question it solves | SQL, Power BI |
-| [Project Name](link) | One line: the question it solves | Scikit-learn |
-
-### 🌱 Currently
-- Learning: advanced machine learning and model deployment
-- Working on: *(name your current project)*
-- Looking for: data science internships and entry-level roles
+### 🎯 Goal
+To grow into a data scientist who turns messy data into clear, useful decisions.
 
 ### 📫 Let's Connect
-Open to collaboration, feedback, and new opportunities. Message me on [LinkedIn](https://www.linkedin.com/in/your-link).
+Open to feedback, collaboration, and learning from others. Message me on [LinkedIn](https://www.linkedin.com/in/your-link).
