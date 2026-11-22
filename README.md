@@ -1,15 +1,36 @@
 # Hi, I'm Raja Usman Waheed 👋
 
-**Data Analyst & Power BI Developer** | Power BI, SQL, DAX, Python, Excel
+**Data Analyst & Power BI Developer in progress** | Power BI · SQL · DAX · Python · Excel
 
 Still a student, but already obsessed with turning data into clear decisions.
 
 ---
 
 ## Toolkit
-- **Data Analysis & Cleaning:** SQL, Python, Excel, Power Query, EDA
-- **Data Visualization & BI:** Power BI, DAX, Excel Dashboards
-- **Core Skills:** KPI Reporting, Data Storytelling, Business Insights
+
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI" /><br><sub>Power BI</sub></td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="DAX" /><br><sub>DAX</sub></td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="SQL" /><br><sub>SQL</sub></td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" /><br><sub>Python</sub></td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Excel" /><br><sub>Excel</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" /><br><sub>Pandas</sub></td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="Jupyter" /><br><sub>Jupyter</sub></td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" /><br><sub>Git</sub></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+**Core skills:** Power Query, KPI Reporting, Data Storytelling, Business Insights, EDA
+
+## What I Do
+- Clean and shape messy data with SQL, Python, and Power Query
+- Turn it into Power BI dashboards built around the KPIs that matter
+- Explain findings in a way teams can act on
 
 ## Currently
 - Learning advanced DAX, SQL, and Python for data analysis
@@ -18,8 +39,7 @@ Still a student, but already obsessed with turning data into clear decisions.
 ## About Me
 - **My start:** Computer Science student since October 2024. After two semesters with no direction, semester 3 clicked: the companies winning today read their data before they move.
 - **What I believe:** Good reporting is half numbers, half design. A dashboard nobody opens isn't insight, it's decoration.
-- **What I do:** I turn messy data into clean dashboards, using SQL, Python, and Power Query to prepare it and Power BI to present it.
 - **How I learn:** In public, with real projects, real mistakes, and no fake expert act.
 - **Experience:** Worked with product teams at Insite.life (UK), turning findings into feedback people can act on.
 
-Hiring for a data or BI role? I'd love to show you what I can build.
+*Hiring for data or BI roles? I turn messy data into dashboards people actually open.*
