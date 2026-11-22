@@ -22,4 +22,4 @@ Still a student, but already obsessed with turning data into clear decisions.
 - **How I learn:** In public, with real projects, real mistakes, and no fake expert act.
 - **Experience:** Worked with product teams at Insite.life (UK), turning findings into feedback people can act on.
 
-If you're hiring for data or BI roles, let's talk.
+Hiring for a data or BI role? I'd love to show you what I can build.
